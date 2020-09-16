@@ -1,0 +1,38 @@
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe.config
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\bin\Debug\HoagieAndPizza.pdb
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.csprojAssemblyReference.cache
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.Properties.Resources.resources
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.csproj.GenerateResource.cache
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.csproj.CoreCompileInputs.cache
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.exe
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.pdb
+G:\TEMPLE\CIS 3309\HONG TRAN - SECTION 4\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.frmMain.resources
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe.config
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\bin\Debug\HoagieAndPizza.pdb
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.csprojAssemblyReference.cache
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.frmMain.resources
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.Properties.Resources.resources
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.csproj.GenerateResource.cache
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.exe
+C:\Users\Rish\Desktop\HoagieAndPizza\HoagieAndPizza\obj\Debug\HoagieAndPizza.pdb
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe.config
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\bin\Debug\HoagieAndPizza.pdb
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.csprojAssemblyReference.cache
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.frmMain.resources
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.Properties.Resources.resources
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.csproj.GenerateResource.cache
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.exe
+C:\Users\Rish\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.pdb
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe.config
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\bin\Debug\HoagieAndPizza.exe
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\bin\Debug\HoagieAndPizza.pdb
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.frmMain.resources
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.Properties.Resources.resources
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.csproj.GenerateResource.cache
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.exe
+C:\Users\rishi\Desktop\HoagiePizzaRishvaIyerFinal\HoagieAndPizza\obj\Debug\HoagieAndPizza.pdb
